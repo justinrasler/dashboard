@@ -1,4 +1,5 @@
-Screen Shot 2022-06-24 at 7.02.23 PM.png
+<img width="1428" alt="Screen Shot 2022-06-24 at 7 02 23 PM" src="https://user-images.githubusercontent.com/85715506/175721487-cad57e7f-baf3-495d-8d42-ce21d5de11e4.png">
+
 
 
 # Getting Started with Create React App
