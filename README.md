@@ -12,9 +12,9 @@ Responsive user interface for desktop and mobile
 
 Modular, reusable React components
 
-Real-time data updates (if applicable)
+Real-time data updates
 
-User authentication and role-based access control (if applicable)
+User authentication and role-based access control
 
 🛠️ Technologies Used
 React.js (or relevant front-end framework)
